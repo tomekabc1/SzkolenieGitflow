@@ -7,7 +7,7 @@ namespace AplikacjaKonsolowa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Siema");
 
             Test test = new Test();
                 test.TestBibliotekiWspolnej();
