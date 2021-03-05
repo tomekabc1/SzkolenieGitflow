@@ -11,7 +11,7 @@ namespace AplikacjaKonsolowa
 
             Test test = new Test();
                 test.TestBibliotekiWspolnej();
-            test.TestNowejFunkcjonalnościTomek();
+            test.TestNowejFunkcjonalnosciPiotr();
         }
     }
 }
